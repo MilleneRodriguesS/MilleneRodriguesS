@@ -2,18 +2,7 @@
 
 ![Gif da Hello Kitty](https://i.pinimg.com/originals/2b/fe/67/2bfe67249a27ab893868d152a07242bd.gif)
 
-*ítalico* ou _ítalico
 
-**Negrito** ou _negrito-
-___negrito e ítalico___
-
-- Lísta 1
-- Lísta 2
-- Sublista
-
-1. Lísta 1
-2. Lísta 2
-   1. SUblista
 
    [Texto da ímagem](https://pt.wallpapers.com/imagens-da-hello-kitty)
 
