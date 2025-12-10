@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-<!--Cabeçalhos>
 
-# Título 1
-## Título 2
-### Título 3 
-#### Título 4
-##### Título 5
-###### Título 6
+
+*ítalico* ou _ítalico
+
+**Negrito** ou _negrito-
+___negrito e ítalico___
+
+- Lísta 1
+- Lísta 2
+- Sublista
 
 
 <!--
