@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![Gif da Hello Kitty](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F413838653250656034%2F&psig=AOvVaw1NmNRZuFb9B4zQGeraRPhn&ust=1765485350473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCL8Mvvs5EDFQAAAAAdAAAAABAf)
 
 *ítalico* ou _ítalico
 
@@ -10,6 +10,20 @@ ___negrito e ítalico___
 - Lísta 1
 - Lísta 2
 - Sublista
+
+1. Lísta 1
+2. Lísta 2
+   1. SUblista
+
+   [Texto da ímagem](https://pt.wallpapers.com/imagens-da-hello-kitty)
+
+
+![Texto da ímagem](https://pt.wallpapers.com/imagens-da-hello-kitty)
+
+'system.out.println();'
+
+
+
 
 
 <!--
