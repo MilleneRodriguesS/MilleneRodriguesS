@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Gif da Hello Kitty](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F413838653250656034%2F&psig=AOvVaw1NmNRZuFb9B4zQGeraRPhn&ust=1765485350473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCL8Mvvs5EDFQAAAAAdAAAAABAf)
+![Gif da Hello Kitty](https://i.pinimg.com/originals/2b/fe/67/2bfe67249a27ab893868d152a07242bd.gif)
 
 *ítalico* ou _ítalico
 
